@@ -33,9 +33,6 @@ class student {
         System.out.println("Student Age: " + age);
         System.out.println("Student Department: " + department);
     }
-}
-
-public class Students {
 
     public static void main(String[] args) {
 
